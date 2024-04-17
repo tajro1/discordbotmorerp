@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["http://morerp.pl/","discord.gg/morerp"];
+const statusMessages = ["http://morerp.pl","discord.gg/morerp"];
 
 
 let currentIndex = 0;
